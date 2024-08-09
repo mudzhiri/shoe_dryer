@@ -84,6 +84,7 @@
 
 body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   max-width: 100%;
+  color: rgb(0, 0, 0);
 }
 
 .page-width.drawer-menu {
